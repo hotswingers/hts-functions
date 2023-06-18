@@ -75,6 +75,9 @@
       "types": "./lib/utils/index.d.ts",
       "require": "./lib/utils/index.js",
       "import": "./lib/utils/index.js"
+    },
+    "./tsconfig.json": {
+      "default": "./tsconfig.json"
     }
   },
   "type": "module",
